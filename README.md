@@ -10,8 +10,10 @@ A full-stack web application for managing projects, assigning tasks, and trackin
 
 | Service | URL |
 |---------|-----|
-| Frontend | `https://task-tracker-rose-kappa.vercel.app` |
-| Backend API | `task-tracker-production-1d7e.up.railway.app` |
+| Frontend | `https://taskflow-frontend.up.railway.app` |
+| Backend API | `https://taskflow-backend.up.railway.app` |
+
+> Replace with your actual Railway URLs after deployment.
 
 ---
 
